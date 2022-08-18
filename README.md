@@ -19,7 +19,7 @@
 
 
 
-<p>&nbsp;<img align="center" height='300px' src="https://github-readme-stats.vercel.app/api?username=tensacoder&show_icons=true&locale=en&theme=dark" alt="tensacoder" /></p>
+<p>&nbsp;<img align="center" height='200px' src="https://github-readme-stats.vercel.app/api?username=tensacoder&show_icons=true&locale=en&theme=dark" alt="tensacoder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tensacoder&" alt="tensacoder" /></p>
 
