@@ -21,9 +21,9 @@
 
 <p>&nbsp;<img align="left" height='200px' src="https://github-readme-stats.vercel.app/api?username=tensacoder&show_icons=true&locale=en&theme=dark" alt="tensacoder" /></p>
 
-<p><img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=tensacoder&show_icons=true&locale=en&theme=dark" alt="tensacoder" /></p>
+<p><img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=tensacoder&show_icons=true&locale=en&theme=dark" alt="tensacoder" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tensacoder&theme=dark" alt="tensacoder" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tensacoder&theme=dark" alt="tensacoder" /></p>
 
 
 
