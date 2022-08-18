@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Web based Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TensaCoder](https://github.com/TensaCoder)
+<!-- - 👨‍💻 All of my projects are available at [https://github.com/TensaCoder](https://github.com/TensaCoder) -->
 
 - 📫 How to reach me **herschel.menezes00@gmail.com**
 
