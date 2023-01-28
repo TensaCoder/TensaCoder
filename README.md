@@ -7,7 +7,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://github.com/TensaCoder](https://github.com/TensaCoder) -->
 
-- 📫 How to reach me **[Email](herschel.menezes00@gmail.com)**
+- 📫 How to reach me **<herschel.menezes00@gmail.com>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
