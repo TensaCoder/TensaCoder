@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Herschel Menezes</h1>
-<h3 align="center">A passionate MERN developer from Mumbai, India.</h3>
+<h3 align="center">A passionate Web and App developer from Mumbai, India.</h3>
 
-- 🌱 I’m currently learning **Web and Blockvhain Development**
+- 🌱 I’m currently learning **Web and Blockchain Development**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
